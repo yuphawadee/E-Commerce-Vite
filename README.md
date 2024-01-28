@@ -7,8 +7,6 @@ This project is developed for learning React using Vite as the build tool and ta
 - [Installation](#installation)
 - [Usage](#usage)
 - [Building the Project](#building-the-project)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
